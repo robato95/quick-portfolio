@@ -107,21 +107,20 @@ from sklearn import *
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import *
 ```
-
+<img src="images/Avocado%20Prices/Forecast.png?raw=true"/>
 ![](/graphs/Forecast.png)
 
 ---
 
 ## [Guitar Tuner](https://github.com/robato95/Guitar-Tuner)
 * A simple guitar tuner that I created as a final project for one of my introduction to programming classes. This is only a software project so no gadgets needed. 
-<img src="images/portfolio/image_1.png?raw=true"/>
-![](/pictures/Screenshot.png) 
+<img src="images/Weather%20App/Madrid.png?raw=true"/>
 
 ---
 
 ## [Weather-App](https://github.com/robato95/Weather-App)
 * A GUI that allows the user to enter any city in the world and retrieve the current weather information. 
-![](/images/Madrid.png)
+<img src="images/Guitar%20TUner/Screenshot.png?raw=true"/>
 
 ---
 
@@ -133,19 +132,7 @@ from sklearn.metrics import *
 import pyautogui as pag
 import webbrowser as wb
 ```
-![](/images/Form.png)
-
----
-
-
-
-
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/Automation%20Project/Form.png?raw=true"/>
 
 ---
 
