@@ -3,8 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Business Intelligence Analyst
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://rpubs.com/Robato_95">View My RPubs Projects</a> 
   
 theme: jekyll-theme-minimal
