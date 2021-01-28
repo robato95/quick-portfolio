@@ -108,7 +108,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import *
 ```
 <img src="images/Avocado%20Prices/Forecast.png?raw=true"/>
-![](/graphs/Forecast.png)
 
 ---
 
