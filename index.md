@@ -114,13 +114,13 @@ from sklearn.metrics import *
 
 ## [Guitar Tuner](https://github.com/robato95/Guitar-Tuner)
 * A simple guitar tuner that I created as a final project for one of my introduction to programming classes. This is only a software project so no gadgets needed. 
-<img src="images/Weather%20App/Madrid.png?raw=true"/>
+<img src="images/Guitar%20Tuner/Screenshot.png?raw=true"/>
 
 ---
 
 ## [Weather-App](https://github.com/robato95/Weather-App)
 * A GUI that allows the user to enter any city in the world and retrieve the current weather information. 
-<img src="images/Guitar%20TUner/Screenshot.png?raw=true"/>
+<img src="images/Weather%20App/Madrid.png?raw=true"/>
 
 ---
 
@@ -134,11 +134,5 @@ import webbrowser as wb
 ```
 <img src="images/Automation%20Project/Form.png?raw=true"/>
 
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+#<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+#<!-- Remove above link if you don't want to attibute -->
