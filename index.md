@@ -94,7 +94,7 @@
 
 ### Projects Using Python
 
-## [Anaytics Project - Avocado Prices](https://github.com/robato95/BI-Avocado-Prices)
+## [Anayltics Project - Avocado Prices](https://github.com/robato95/BI-Avocado-Prices)
 * Data for avocado prices beginning in 2015 and contains various details related to the logistics of avocados shipped for each week up until the end of Q1 2018.
 * Using the following packages, I explored the logistic details in the data and use this information to create a multiple linear regression model to predict avocado prices
 ```bash
