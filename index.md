@@ -92,7 +92,54 @@
 
 ---
 
-### Category Name 2
+### Projects Using Python
+
+## Anaytics Project - Avocado Prices
+* Data for avocado prices beginning in 2015 and contains various details related to the logistics of avocados shipped for each week up until the end of Q1 2018.
+* Using the following packages, I explored the logistic details in the data and use this information to create a multiple linear regression model to predict avocado prices
+```bash
+import os
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
+import sklearn
+from sklearn import *
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import *
+```
+
+![](/graphs/Forecast.png)
+
+---
+
+## [Guitar Tuner](https://github.com/robato95/Guitar-Tuner)
+* A simple guitar tuner that I created as a final project for one of my introduction to programming classes. This is only a software project so no gadgets needed. 
+<img src="images/portfolio/image_1.png?raw=true"/>
+![](/pictures/Screenshot.png) 
+
+---
+
+## [Weather-App](https://github.com/robato95/Weather-App)
+* A GUI that allows the user to enter any city in the world and retrieve the current weather information. 
+![](/images/Madrid.png)
+
+---
+
+## [Data Entry Automation Project](https://github.com/robato95/Automation-Project)
+* This was a project to practice using the automation tools provided by the pyautogui and the webbrowser packages.
+* Using these packages I created code that would fill out the following form based on information for each member of my family.
+
+```bash
+import pyautogui as pag
+import webbrowser as wb
+```
+![](/images/Form.png)
+
+---
+
+
+
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
