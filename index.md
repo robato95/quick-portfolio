@@ -117,7 +117,7 @@ from sklearn.metrics import *
 
 ---
 
-## [Weather-App](https://github.com/robato95/Weather-App)
+## [Weather App](https://github.com/robato95/Weather-App)
 * A GUI that allows the user to enter any city in the world and retrieve the current weather information. 
 <img src="images/Weather%20App/Madrid.png?raw=true"/>
 
@@ -132,4 +132,13 @@ import pyautogui as pag
 import webbrowser as wb
 ```
 <img src="images/Automation%20Project/Form.png?raw=true"/>
+---
+
+## [What Should Your Mile Time Be?](https://github.com/robato95/Mile_Pace)
+* A mile pace will be calculated based on the user's age, gender, and fitness level.
+* The data is based on 10,000 runners and the information was collected by Healthline in 2010.
+* Works for age ranges between 16 and 99 years old.
+
+
+
 
