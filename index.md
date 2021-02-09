@@ -132,6 +132,7 @@ import pyautogui as pag
 import webbrowser as wb
 ```
 <img src="images/Automation%20Project/Form.png?raw=true"/>
+
 ---
 
 ## [What Should Your Mile Time Be?](https://github.com/robato95/Mile_Pace)
