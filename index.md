@@ -3,10 +3,11 @@
 ---
 
 ### Data Analysis Using SQL
-##[Walmart Sales Analysis (Mode Analytics)](https://app.mode.com/robert04vargas/reports/6c4afec2423b)
+## [Walmart Sales Analysis (Mode Analytics)](https://app.mode.com/robert04vargas/reports/6c4afec2423b)
 * General analysis of historical sales data for 45 Walmart stores located in different regions.
 * Visuals were created using SQL on the Mode Analytics Platform.
 * Queries are outline within the project.
+<img src="images/Walmart%20Project/Walmart Sales Chart.png?raw=true"/>
 
 ---
 
