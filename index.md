@@ -150,6 +150,14 @@ import webbrowser as wb
 * Works for age ranges between 16 and 99 years old.
 <img src="images/Mile%20Time/Screenshot 2.png?raw=true"/>
 
+---
 
+### Tableau Projects
+
+## [Portland Housing Data](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/PortlandHousingData_16129850354020/Dashboard1)
+
+---
+
+## [Hotel Booking Behavior](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/HotelBookingBehavior/RGvsNon-RG)
 
 
