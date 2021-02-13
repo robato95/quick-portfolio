@@ -160,6 +160,6 @@ import webbrowser as wb
 ---
 
 ## [Hotel Booking Behavior](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/HotelBookingBehavior/RGvsNon-RG)
-
+<img src="images/Tableau/Hotel.png?raw=true"/>
 
 
