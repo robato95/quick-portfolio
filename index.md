@@ -155,10 +155,11 @@ import webbrowser as wb
 ### Tableau Projects
 
 ## [Portland Housing Data](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/PortlandHousingData_16129850354020/Dashboard1)
+<img src="images/Tableau/Portland.png?raw=true"/>
 
 ---
 
 ## [Hotel Booking Behavior](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/HotelBookingBehavior/RGvsNon-RG)
-<img src="images/Tableau/Portland.png?raw=true"/>
+
 
 
