@@ -49,7 +49,7 @@
 
 ---
 
-## [Replicating the IB Math Studies Internal Assessment Using R](https://rpubs.com/Robato_95/550746)
+## [Investigating Runner’s Data](https://rpubs.com/Robato_95/871449)
 * Investigating the relationship between a runner's weight and their mile time.
 <img src="images/IB%20Math/image_1.png?raw=true"/>
 
