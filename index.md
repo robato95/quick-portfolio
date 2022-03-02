@@ -97,7 +97,7 @@
 
 ## [Analyzing My Financial Portfolio](https://rpubs.com/Robato_95/872679)
 * A visual respresentation of my trading portfolio.
-<img src="images/portfolio/Portfolio.PNG?raw=true"/>
+<img src="images/portfolio/Portfolio.png?raw=true"/>
 
 ---
 
