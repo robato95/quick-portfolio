@@ -95,7 +95,7 @@
 
 ---
 
-## [My Trading Portfolio as of November 2019](https://rpubs.com/Robato_95/551732)
+## [Analyzing My Financial Portfolio](https://rpubs.com/Robato_95/872679)
 * A visual respresentation of my trading portfolio.
 <img src="images/portfolio/image_1.png?raw=true"/>
 
