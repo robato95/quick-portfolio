@@ -81,9 +81,9 @@
 
 ---
 
-## [Normal Distribution of Heights](https://rpubs.com/Robato_95/566318)
+## [Are Heights Normally Distributed?](https://rpubs.com/Robato_95/873358)
 * Data analyzed is heights of fathers and their sons, based on an experiment by Karl Pearson in 1900.
-* Using this data I analyzed the distribution of everyone's heights and created a preditive model.
+* Using this data I analyzed the distribution of the observed heights.
 * I hypothesized that the differences in the model would follow a normal distribution as well.
 <img src="images/Heights/image_2.png?raw=true"/>
 
