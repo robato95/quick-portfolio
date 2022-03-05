@@ -69,7 +69,7 @@
 
 ---
 
-## [FIFA Analysis - Predicting Player Speed](https://rpubs.com/Robato_95/595152)
+## [Exploratory Analysis and Predictive Model Using Game Data from FIFA 2020](https://rpubs.com/Robato_95/873916)
 * I analyzed data that contains 100+ attributes for over 18,000 players on FIFA 20. 
 * After exploring the data, I created a multiple linear regression model to predict player speed.
 <img src="images/FIFA/image_3.png?raw=true"/>
