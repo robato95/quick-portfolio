@@ -28,7 +28,7 @@
 
 ---
 
-## [Predictive Model from 1990s California Housing Data](https://rpubs.com/Robato_95/619536)
+## [1990s California Housing Exploratory Analysis and Predictive Model](https://rpubs.com/Robato_95/875014)
 * The data contains information from the 1990 California census and pertains to the houses found in a given California district (based on lat/long coordinates) and key summary stats about them based on the census.
 * In order to create and test a predictive model, I extracted a sample of 500 districts to use as our test object. 
 <img src="images/1990%20Housing/image_2.png?raw=true"/>
