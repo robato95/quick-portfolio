@@ -42,9 +42,9 @@
 
 ---
 
-## [Premier League Exploratory Data Analysis](https://rpubs.com/Robato_95/638007)
-* Analyzed the various player details that make up the famous soccer league.
-* Explored data related to demographics, market values, and statistics.
+## [Premier League Exploratory Analysis](https://rpubs.com/Robato_95/876515)
+* An exploratory analysis of data collected between the 2015-16 and the 2018-19 season.
+* Analyzed trends related to demographics, market values, and statistics.
 <img src="images/Premier%20League/image_1.png?raw=true"/>
 
 ---
