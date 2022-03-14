@@ -61,10 +61,9 @@
 
 ---
 
-## [Econometric Analysis with Credit Card Data](https://rpubs.com/Robato_95/625608)
+## [Econometric Analysis Using Credit Card Data](https://rpubs.com/Robato_95/877858)
 * Analysis based on a book called "Econmetric Analysis" by William Greene.
-* The data was collected from a lending institution and indicates whether a cardholder’s application got accepted or denied. 
-* Using this data, I created a logistic regression model to predict whether cardholders in a test sample got approved.
+* Using credit card data, I created a logistic regression model to predict whether cardholders in a test sample got approved or denied.
 <img src="images/Econometric%20Analysis/image_1.png?raw=true"/>
 
 ---
