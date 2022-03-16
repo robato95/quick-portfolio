@@ -35,9 +35,9 @@
 
 ---
 
-## [$SPY Returns Distribution](https://rpubs.com/Robato_95/650235)
-* Obtained monthly closing prices for $SPY, a SP500 index that was founded on January 22, 1993, from Yahoo Finance. 
-* Using the mean and standard deviation of monthly returns to investigate whether returns are normally distributed.
+## [Analyzing Monthly Returns of the SP500](https://rpubs.com/Robato_95/878891)
+* I've collected approximately 20 years of monthly closing data to analyze the returns of $SPY. 
+* Using important metrics, I conclude if investing in $SPY is a smart investment.
 <img src="images/SPY%20Distribution/image_1.png?raw=true"/>
 
 ---
