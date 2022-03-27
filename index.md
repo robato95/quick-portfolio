@@ -13,9 +13,10 @@
 
 ### Data Analysis Using R
 
-## [Business Analysis Supermarket Sales](https://rpubs.com/Robato_95/711600)
-* A business analysis of Q3 sales from a supermarket using important metrics and KPIs.
-* Visuals were created using R Shiny.
+## [Supermarket Quarter 3 Sales (EDA)](https://rpubs.com/Robato_95/882509)
+* A exploratory data analysis of Q3 sales from a fictional supermarket. 
+* Illustrating findings using important metrics, KPIs, and graphs.
+* Visuals created using R Flexboard.
 <img src="images/Supermarket%20Sales/image_2.png?raw=true"/>
 
 ---
