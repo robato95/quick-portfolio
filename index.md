@@ -21,7 +21,7 @@
 
 ---
 
-## [US Superstore Analysis Financial Analysis](https://rpubs.com/Robato_95/708736)
+## [US Superstore Financial Analysis](https://rpubs.com/Robato_95/708736)
 * Sales data from a US superstore for the period 2014 through 2018.
 * Through metrics I explore the company's successes and failures.
 * Using the findings, I explore recomendations to help reach the goal of a 15% gross profit margin over the next four years.
