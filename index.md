@@ -21,10 +21,10 @@
 
 ---
 
-## [US Superstore Analysis](https://rpubs.com/Robato_95/708736)
-* Data for the period 2014 through 2018 for a US superstore.
-* Calculated high level metrics we see how successful the company has been in generating sales and the total profit earned over the past four years.
-* Using this information I will explore recomendations to help reach the goal of a 15% gross profit margin over the next four years.
+## [US Superstore Analysis Financial Analysis](https://rpubs.com/Robato_95/708736)
+* Sales data from a US superstore for the period 2014 through 2018.
+* Through metrics I explore the company's successes and failures.
+* Using the findings, I explore recomendations to help reach the goal of a 15% gross profit margin over the next four years.
 <img src="images/US%20SUperstore/image_2.png?raw=true"/>
 
 ---
