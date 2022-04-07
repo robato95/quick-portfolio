@@ -101,6 +101,13 @@
 
 ---
 
+## [Stanford Open Policing Project](https://rpubs.com/Robato_95/884886)
+* Data includes stop data from Rhode Island, covering the period from 2005 through 2015.
+* Analyzed the data and answered some inspirational questions from the Kaggle prompt.
+<img src="images/Stanford Open Policing Project.png?raw=true"/>
+
+---
+
 ### Projects Using Python
 
 ## [Anayltics Project - Avocado Prices](https://github.com/robato95/BI-Avocado-Prices)
@@ -161,5 +168,10 @@ import webbrowser as wb
 
 ## [Hotel Booking Behavior](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/HotelBookingBehavior/RGvsNon-RG)
 <img src="images/Tableau/Hotel.png?raw=true"/>
+
+---
+
+## [Mobile Game A/B Testing](https://public.tableau.com/app/profile/robert.vargas7196/viz/MobileGameABTesting-CookieCats/MobileGamesABTesting-CookieCats)
+<img src="images/Tableau/Mobile Games A_B Testing - Cookie Cats.png?raw=true"/>
 
 
