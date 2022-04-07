@@ -37,11 +37,10 @@
 
 ---
 
-## [US Superstore Financial Analysis](https://rpubs.com/Robato_95/708736)
-* Sales data from a US superstore for the period 2014 through 2018.
-* Through metrics I explore the company's successes and failures using R programming.
-* Using the findings, I explore recomendations to help reach the goal of a 15% gross profit margin over the next four years.
-<img src="images/US%20SUperstore/image_2.png?raw=true"/>
+## [Premier League Exploratory Analysis](https://rpubs.com/Robato_95/876515)
+* An exploratory analysis of data collected between the 2015-16 and the 2018-19 season.
+* Analyzed trends related to demographics, market values, and sport metrics using R programming.
+<img src="images/Premier%20League/image_1.png?raw=true"/>
 
 ---
 
@@ -76,13 +75,6 @@ from sklearn.metrics import *
 
 ---
 
-## [Premier League Exploratory Analysis](https://rpubs.com/Robato_95/876515)
-* An exploratory analysis of data collected between the 2015-16 and the 2018-19 season.
-* Analyzed trends related to demographics, market values, and sport metrics using R programming.
-<img src="images/Premier%20League/image_1.png?raw=true"/>
-
----
-
 ## [Investigating Runner’s Data](https://rpubs.com/Robato_95/871449)
 * Investigating the relationship between a runner's weight and their mile time using R programming.
 <img src="images/IB%20Math/image_1.png?raw=true"/>
@@ -104,9 +96,9 @@ from sklearn.metrics import *
 ---
 
 ## [Analyzing Portland Housing Data](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/PortlandHousingData_16129850354020/Dashboard1)
-<img src="images/Tableau/Portland.png?raw=true"/>
 * An exploratory data analysis of real estate in the Portland area using Tableau.
 * I analyze the years these houses were built, the average house price by year built, and the average price per elementary school district.
+<img src="images/Tableau/Portland.png?raw=true"/>
 
 ---
 
@@ -171,5 +163,13 @@ import webbrowser as wb
 ## [Coachella Music Festival Sentiment Analysis](https://rpubs.com/Robato_95/638006)
 * Analyzing Twitter activity related to the performances during the Coachella Music festival.
 <img src="images/Sentiment%20Analysis/image_1.png?raw=true"/>
+
+---
+
+## [US Superstore Financial Analysis](https://rpubs.com/Robato_95/708736)
+* Sales data from a US superstore for the period 2014 through 2018.
+* Through metrics I explore the company's successes and failures using R programming.
+* Using the findings, I explore recomendations to help reach the goal of a 15% gross profit margin over the next four years.
+<img src="images/US%20SUperstore/image_2.png?raw=true"/>
 
 ---
