@@ -2,7 +2,6 @@
 
 ---
 
-### Data Analysis Using SQL
 ## [Walmart Sales Analysis (Mode Analytics)](https://app.mode.com/robert04vargas/reports/6c4afec2423b)
 * General analysis of historical sales data for 45 Walmart stores located in different regions.
 * Visuals were created using SQL on the Mode Analytics Platform.
@@ -10,8 +9,6 @@
 <img src="images/Walmart%20Project/Walmart Sales Chart.png?raw=true"/>
 
 ---
-
-### Data Analysis Using R
 
 ## [Supermarket Quarter 3 Sales (EDA)](https://rpubs.com/Robato_95/882509)
 * A exploratory data analysis of Q3 sales from a fictional supermarket. 
@@ -108,8 +105,6 @@
 
 ---
 
-### Projects Using Python
-
 ## [Anayltics Project - Avocado Prices](https://github.com/robato95/BI-Avocado-Prices)
 * Data for avocado prices beginning in 2015 and contains various details related to the logistics of avocados shipped for each week up until the end of Q1 2018.
 * Using the following packages, I explored the logistic details in the data and use this information to create a multiple linear regression model to predict avocado prices
@@ -159,7 +154,6 @@ import webbrowser as wb
 
 ---
 
-### Tableau Projects
 
 ## [Portland Housing Data](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/PortlandHousingData_16129850354020/Dashboard1)
 <img src="images/Tableau/Portland.png?raw=true"/>
