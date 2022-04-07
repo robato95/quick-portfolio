@@ -89,9 +89,10 @@ from sklearn.metrics import *
 
 ---
 
-## [Coachella Music Festival Sentiment Analysis](https://rpubs.com/Robato_95/638006)
-* Analyzing Twitter activity related to the performances during the Coachella Music festival.
-<img src="images/Sentiment%20Analysis/image_1.png?raw=true"/>
+## [Stanford Open Policing Project](https://rpubs.com/Robato_95/884886)
+* Data includes stop data from Rhode Island, covering the period from 2005 through 2015.
+* Analyzed the data using R programming and answered some inspirational questions from the Kaggle prompt.
+<img src="images/Stanford Open Policing Project.png?raw=true"/>
 
 ---
 
@@ -99,6 +100,13 @@ from sklearn.metrics import *
 * Analysis based on a book called "Econmetric Analysis" by William Greene.
 * Using credit card data, I created a logistic regression model to predict whether cardholders in a test sample got approved or denied.
 <img src="images/Econometric%20Analysis/image_1.png?raw=true"/>
+
+---
+
+## [Analyzing Portland Housing Data](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/PortlandHousingData_16129850354020/Dashboard1)
+<img src="images/Tableau/Portland.png?raw=true"/>
+* An exploratory data analysis of real estate in the Portland area using Tableau.
+* I analyze the years these houses were built, the average house price by year built, and the average price per elementary school district.
 
 ---
 
@@ -124,13 +132,6 @@ from sklearn.metrics import *
 ## [Analyzing My Financial Portfolio](https://rpubs.com/Robato_95/872679)
 * A visual respresentation of my trading portfolio using R programming graphs.
 <img src="images/portfolio/Portfolio.png?raw=true"/>
-
----
-
-## [Stanford Open Policing Project](https://rpubs.com/Robato_95/884886)
-* Data includes stop data from Rhode Island, covering the period from 2005 through 2015.
-* Analyzed the data using R programming and answered some inspirational questions from the Kaggle prompt.
-<img src="images/Stanford Open Policing Project.png?raw=true"/>
 
 ---
 
@@ -167,13 +168,8 @@ import webbrowser as wb
 
 ---
 
-
-## [Portland Housing Data](https://public.tableau.com/profile/robert.vargas7196#!/vizhome/PortlandHousingData_16129850354020/Dashboard1)
-<img src="images/Tableau/Portland.png?raw=true"/>
+## [Coachella Music Festival Sentiment Analysis](https://rpubs.com/Robato_95/638006)
+* Analyzing Twitter activity related to the performances during the Coachella Music festival.
+<img src="images/Sentiment%20Analysis/image_1.png?raw=true"/>
 
 ---
-
-
-
-
-
