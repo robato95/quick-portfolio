@@ -22,25 +22,8 @@
 
 ---
 
-## [Predicting Avocado Prices](https://github.com/robato95/BI-Avocado-Prices)
-* Data for avocado prices beginning in 2015 and contains various details related to the logistics of avocados shipped for each week up until the end of Q1 2018.
-* Using the following Python packages, I explored the logistic details in the data and use this information to create a multiple linear regression model to predict avocado prices
-```bash
-import os
-import pandas as pd
-import numpy as np
-from matplotlib import pyplot as plt
-import sklearn
-from sklearn import *
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import *
-```
-<img src="images/Avocado%20Prices/Forecast.png?raw=true"/>
-
----
-
 ## [Supermarket Quarter 3 Sales (EDA)](https://rpubs.com/Robato_95/882509)
-* A exploratory data analysis of Q3 sales from a fictional supermarket. 
+* An exploratory data analysis of Q3 sales from a fictional supermarket. 
 * Illustrating findings using important metrics, KPIs, and graphs.
 * Visuals created using R Flexboard.
 <img src="images/Supermarket%20Sales/image_2.png?raw=true"/>
@@ -73,6 +56,23 @@ from sklearn.metrics import *
 * An analysis of hotel booking behavior using Tableau
 * The project is focused mainly on identifying trends, most successful revenue channels, and customer behavior.
 <img src="images/Tableau/Hotel.png?raw=true"/>
+
+---
+
+## [Predicting Avocado Prices](https://github.com/robato95/BI-Avocado-Prices)
+* Data for avocado prices beginning in 2015 and contains various details related to the logistics of avocados shipped for each week up until the end of Q1 2018.
+* Using the following Python packages, I explored the logistic details in the data and use this information to create a multiple linear regression model to predict avocado prices
+```bash
+import os
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
+import sklearn
+from sklearn import *
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import *
+```
+<img src="images/Avocado%20Prices/Forecast.png?raw=true"/>
 
 ---
 
