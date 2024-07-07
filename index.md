@@ -5,11 +5,14 @@
 <summary>Graduate Studies Projects</summary>
 
 ## [Walmart Sales Analysis (Mode Analytics)](https://app.mode.com/robert04vargas/reports/6c4afec2423b)
+
 Walmart Sales Analysis (Mode Analytics)
+
 * General analysis of historical sales data for 45 Walmart stores located in different regions.
 * Visuals created using SQL via the Mode Analytics Platform.
 * Queries are outlined within the project.
 <img src="images/Walmart%20Project/Walmart Sales Chart.png?raw=true"/>
+
 </details>
 ---
 
