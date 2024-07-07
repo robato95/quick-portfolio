@@ -2,9 +2,10 @@
 
 ---
 <details>
-<summary>Tab 1 Title</summary>
+<summary>Graduate Studies Projects</summary>
 
 ## [Walmart Sales Analysis (Mode Analytics)](https://app.mode.com/robert04vargas/reports/6c4afec2423b)
+Walmart Sales Analysis (Mode Analytics)
 * General analysis of historical sales data for 45 Walmart stores located in different regions.
 * Visuals created using SQL via the Mode Analytics Platform.
 * Queries are outlined within the project.
@@ -12,16 +13,23 @@
 </details>
 ---
 
-## [Mobile Game A/B Testing](https://public.tableau.com/app/profile/robert.vargas7196/viz/MobileGameABTesting-CookieCats/MobileGamesABTesting-CookieCats)
-<img src="images/Tableau/Mobile Games A_B Testing - Cookie Cats.png?raw=true"/>
+<details>
+<summary>Work Projects</summary>
 
+
+## [Mobile Game A/B Testing](https://public.tableau.com/app/profile/robert.vargas7196/viz/MobileGameABTesting-CookieCats/MobileGamesABTesting-CookieCats)
+Mobile Game A/B Testing
+<img src="images/Tableau/Mobile Games A_B Testing - Cookie Cats.png?raw=true"/>
+</details>
 ---
+<details>
+<summary>Other Projects and Core Competencies</summary>
 
 ## [Exploratory Analysis and Predictive Model Using Game Data from FIFA 2020](https://rpubs.com/Robato_95/873916)
 * I analyzed data that contains 100+ attributes for over 18,000 players on FIFA 20. 
 * After exploring the data, I created a multiple linear regression model to predict player speed using R programming.
 <img src="images/FIFA/image_3.png?raw=true"/>
-
+</details>
 ---
 
 ## [Supermarket Quarter 3 Sales (EDA)](https://rpubs.com/Robato_95/882509)
