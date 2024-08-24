@@ -8,9 +8,9 @@
 
 Walmart Sales Analysis (Mode Analytics)
 
-* General analysis of historical sales data for 45 Walmart stores located in different regions.
-* Visuals created using SQL via the Mode Analytics Platform.
-* Queries are outlined within the project.
+- General analysis of historical sales data for 45 Walmart stores located in different regions.
+- Visuals created using SQL via the Mode Analytics Platform.
+- Queries are outlined within the project.
 <img src="images/Walmart%20Project/Walmart Sales Chart.png?raw=true"/>
 
 </details>
